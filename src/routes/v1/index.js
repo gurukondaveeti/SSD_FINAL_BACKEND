@@ -4,4 +4,4 @@ const {InfoController} = require('../../controllers');
 const router= express. Router();
 router.get('/info', InfoController.info);
 I
-module.exports = router;
+module.exports = router; 
